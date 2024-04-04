@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRJ">
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/src/java/sample/sp24/user/UserDAO.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/web/login.html</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/src/java/sample/sp24/servlets/SearchController.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/src/java/sample/sp24/servlets/LoginController.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/src/java/sample/sp24/user/UserDTO.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/src/java/sample/sp24/ultis/DBUltis.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/web/user.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/web/admin.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/src/java/sample/sp24/servlets/MainController.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Máy%20tính/java%20code/UserManagementT2S1/web/login.jsp</file>
+        </group>
+        <group>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/order/ProductDAO.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/RemoveController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/LoginController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/login.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/stackjava/com/accessgoogle/common/GooglePojo.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/order/ProductDTO.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/phone/Phone.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/DeleteController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/EditController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/user/UserDAO.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/MainController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/createUser.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/AddController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/user.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/SearchController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/phone/Cart.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/checkout.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/shopping.html</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/CheckoutController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/ultis/DBUltis.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/admin.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/login.html</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/stackjava/com/accessgoogle/common/Constants.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/LogoutController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/top1.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/UpdateController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/Top1Controller.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/stackjava/com/accessgoogle/servlet/LoginGoogleServlet.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/SendMailServlet.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/TopController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/shopping.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/servlets/CreateController.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/user/UserError.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/src/java/sample/sp24/user/UserDTO.java</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/viewCart.jsp</file>
+            <file>file:/D:/JavaNetbean/COPY/UserManagementT2S1/UserManagementT2S1/web/createUser.html</file>
+        </group>
+    </open-files>
+</project-private>
